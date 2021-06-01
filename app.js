@@ -18,5 +18,6 @@ window.addEventListener('keydown', (ele) => {
   <br>
   <div class = "key-code">
     <h1>Press any key to get the keycode</h1>
+    <input type = "text" placeholder="Enter a single character">
   </div>`
 })
