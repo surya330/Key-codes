@@ -20,5 +20,4 @@ window.addEventListener('keydown', (ele) => {
     <h1>Press any key to get the keycode</h1>
   </div>
     `
-    `
   })
